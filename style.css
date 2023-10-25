@@ -1227,7 +1227,7 @@
     }
     .content_one_data header .fa-bars {
         display: block;
-        font-size: 130%;
+        font-size: 200%;
         cursor: pointer;
     }
     header .sidenav.slide li a {
@@ -1245,7 +1245,7 @@
         transition: 0.3s;
     }
     .content_two_data {
-        margin: 6% 5%;
+        margin: 7% 5%;
     }
 
     .content_two_data_text {
@@ -1456,7 +1456,7 @@
     }
 
     .content_two_data {
-        margin: 7% 6%;
+        margin: 8% 6%;
     }
 
     .content_three_data_header h2 {
@@ -1565,8 +1565,6 @@
         font-size: 0.9em;
     }
 
-    .content_five_data_body {}
-
     .content_five_data_body {
         flex-direction: column;
     }
@@ -1604,6 +1602,10 @@
     .content_seven_data_body .box_seven p {
         font-size: 0.8em;
     }
+    
+.content_eight_data_two .card {
+    margin: 8% 0;
+}
     
 .content_nine_data_header {
     width: 100%;
@@ -1658,7 +1660,7 @@
     }
 
     .content_two_data {
-        margin: 7% 5%;
+        margin: 8% 5%;
     }
 
     .content_two_data_text a {
@@ -1777,6 +1779,27 @@
         margin: 5% 0;
         text-align: center;
         justify-content: center;
+     }
+     .content_three_data {
+        margin: 10% 7%;
+     }
+     .content_four_data {
+        margin: 10% 7%;
+     }
+     .content_five_data {
+        margin: 10% 7%;
+     }
+     .content_six_data {
+        margin: 10% 7%;
+     }
+     .content_seven_data {
+        margin: 10% 7%;
+     }
+     .content_eight_data {
+        margin: 10% 7%;
+     }
+     .content_three_data {
+        margin: 10% 7%;
      }
 }
 
